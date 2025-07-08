@@ -1,5 +1,5 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+"Step-by-Step Guide to Activate Disney+ Using disneyplus.com/begin"
 ##################
 
 .. meta::
